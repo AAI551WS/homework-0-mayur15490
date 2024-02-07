@@ -5,9 +5,7 @@ def hello_world():
     # This is a simple print statement to display a greeting message
     print("Hello, World!")
 
-
-def add(a,b):
-
+def add(a, b):
     """
     .
     Parameters:
